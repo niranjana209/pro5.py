@@ -1,0 +1,10 @@
+dept = []
+dept.append('cse')
+dept.append('it')
+dept.append('ece')
+dept.append('eee')
+last_item = dept.pop()
+print(last_item)
+last_item = dept.pop()
+print(last_item)
+print(dept) 
